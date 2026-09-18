@@ -48,3 +48,6 @@ Thumbs.db
 .idea/
 .vscode/
 .agents/
+
+# Standalone Repositories
+smart-expense-tracker/
